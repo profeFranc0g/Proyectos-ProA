@@ -1,0 +1,16 @@
+
+.row{
+    text-align: center;
+}
+#fila1{
+    background-color: blue;
+}
+#fila2{
+    background-color: gray;
+}
+#fila3{
+    background-color: green;
+}
+#fila4{
+    background-color: skyblue;
+}   
